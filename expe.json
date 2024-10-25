@@ -1,0 +1,22 @@
+{
+    "projets":[
+        {
+            "imgprojet":"img/projettest/Point-de-vue-Orleons.jpg",
+            "h1projet":"Projet test",
+            "paraprojet":"Ceci est une description du projet.",
+            "entree1":"3D",
+            "entree2":"Comment montrer 2 points de vue d'un même territoire",
+            "date":"25/10/2024",
+            "nid":"ptest1" 
+        },
+        {
+            "imgprojet":"img/projettest/untitled.png",
+            "h1projet":"Projet test2",
+            "paraprojet":"Ceci est une description du projet.",
+            "entree1":"AR",
+            "entree2":"Comment montrer 2 points de vue d'un même territoire",
+            "date":"25/10/2024",
+            "nid":"ptest2" 
+        }
+    ]
+}

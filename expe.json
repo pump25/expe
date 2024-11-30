@@ -1,22 +1,40 @@
 {
     "projets":[
         {
-            "imgprojet":"img/projettest/Point-de-vue-Orleons.jpg",
-            "h1projet":"LA montée",
-            "paraprojet":"Ceci est une description du projet.",
-            "entree1":"3D",
-            "entree2":"Comment simuler la montée des eaux",
-            "date":"25/10/2024",
-            "nid":"ptest" 
+            "imgprojet":"img/cosmo-diffniv.webp",
+            "h1projet":"Différents niveaux de lecture",
+            "paraprojet":"Au travers de ce cosmogramme il s'agit d'une exploration autour de la confrontation de différentes informations sur une même position, comment puis je représenté différents aspect d'une même position. On retrouve ainsi : une coupe du lieu, la présence de nappes phréatiques, le mouvement satellitaire, la cartographie architecturale du lieu",
+            "entree1":"Cosmogramme",
+            "entree2":"Comment montrer différents niveaux d'informations d'un territoire ?",
+            "date":"30/11/2024",
+            "nid":"diffniv" 
         },
         {
-            "imgprojet":"img/projettest/untitled.png",
-            "h1projet":"Projet test2",
-            "paraprojet":"Ceci est une description du projet.",
+            "imgprojet":"img/MulticoucheAR.gif",
+            "h1projet":"Changer de point de vue pour montrer différents niveaux de lecture",
+            "paraprojet":"Explorer comment l'on peut représenter différents niveaux de lecture d'un territoire en réalité augmentée. Une exploration qui invite l'usager à observer sous différents angles un m^me environnement et qui donne une localité à chaque niveau de lectures d'un territoire.",
             "entree1":"AR",
-            "entree2":"Comment montrer 2 points de vue d'un même territoire",
-            "date":"25/10/2024",
-            "nid":"ptest2"
+            "entree2":"Comment montrer différents niveaux d'informations d'un territoire ?",
+            "date":"30/11/2024",
+            "nid":"diffnivar"
+        },
+         {
+            "imgprojet":"img/positionson.gif",
+            "h1projet":"Position sensorielle",
+            "paraprojet":"Explorer comment ma position peut influencer ma perception sensorielle d'un lieu. En fonction de où je me situe les sons autour de moi vont changer et me plonger dans une autre vision du territoire sur lequel je me situe.",
+            "entree1":"AR",
+            "entree2":"Comment ma position peut influencer ma perception sensorielle d'un lieu ?",
+            "date":"30/11/2024",
+            "nid":"posison"
+        },
+        {
+            "imgprojet":"img/schema_vousetesici.webp",
+            "h1projet":"Vous êtes ici, mon rapport au territoire",
+            "paraprojet":"Explorer comment ma position est en lien étroit avec mon territoire. Une représentation sensible du vous êtes ici, qui interroge sa place sur différentes représentation du territoire.",
+            "entree1":"Cosmogramme",
+            "entree2":"Comment donner un apperçu général de ma position ?",
+            "date":"30/11/2024",
+            "nid":"schemaici"
         }
     ]
 }

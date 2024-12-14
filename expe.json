@@ -10,7 +10,7 @@
             "nid":"diffniv" 
         },
         {
-            "imgprojet":"img/MulticoucheAR.gif",
+            "vidprojet":"img/MulticoucheAR.webm",
             "h1projet":"Changer de point de vue pour montrer différents niveaux de lecture",
             "paraprojet":"Explorer comment l'on peut représenter différents niveaux de lecture d'un territoire en réalité augmentée. Une exploration qui invite l'usager à observer sous différents angles un m^me environnement et qui donne une localité à chaque niveau de lectures d'un territoire.",
             "entree1":"AR",
@@ -19,7 +19,7 @@
             "nid":"diffnivar"
         },
          {
-            "imgprojet":"img/positionson.gif",
+            "vidprojet":"img/positionson.webm",
             "h1projet":"Position sensorielle",
             "paraprojet":"Explorer comment ma position peut influencer ma perception sensorielle d'un lieu. En fonction de où je me situe les sons autour de moi vont changer et me plonger dans une autre vision du territoire sur lequel je me situe.",
             "entree1":"AR",
@@ -28,6 +28,7 @@
             "nid":"posison"
         },
         {
+            "vidprojet":,
             "imgprojet":"img/schema_vousetesici.webp",
             "h1projet":"Vous êtes ici, mon rapport au territoire",
             "paraprojet":"Explorer comment ma position est en lien étroit avec mon territoire. Une représentation sensible du vous êtes ici, qui interroge sa place sur différentes représentation du territoire.",

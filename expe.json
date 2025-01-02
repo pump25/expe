@@ -1,7 +1,7 @@
 {
     "projets":[
         {
-            "imgprojet":"img/cosmo-diffniv.png",
+            "imgprojet":"img/cosmo-diff-niv.png",
             "h1projet":"Différents niveaux de lecture",
             "paraprojet":"Une exploration qui mène à la création de cosmogrammes, où les échelles (souterraine, terrestre et aérienne) d’un même territoire se confrontent. Le concept du vous êtes ici disparaît, puisque l’accent n'est plus mis sur l’individu, mais sur le territoire lui-même. Dans cette configuration, nous nous situons par une représentation photographique. La lecture de ce cosmogramme se fait comme un zoom : la couche la plus élevée, vue du ciel, apparaît plus proche, tandis que la couche souterraine semble plus petite. Cette représentation nous permet de mettre en lumière ce qui est habituellement invisible, et d'explorer la relation entre différentes couches, à partir d'une même position.",
             "entree1":"Cosmogramme",
@@ -21,7 +21,7 @@
          {
             "vidprojet":"img/positionson.webm",
             "h1projet":"Position sensorielle",
-            "paraprojet":"Explorer comment ma position peut influencer ma perception sensorielle d'un lieu. En fonction de où je me situe les sons autour de moi vont changer et me plonger dans une autre vision du territoire sur lequel je me situe.",
+            "paraprojet":"Dans une pièce, sans indication visuelle, l’ambiance sonore varie en fonction de la position de la personne à l’intérieur. L’utilisateur est transporté dans différents lieux grâce à son ouïe. Cela permet d’explorer de nouvelles façons de percevoir un territoire, en se concentrant sur d’autres caractéristiques qui le qualifient",
             "entree1":"exsitu",
             "entree2":"Comment ma position peut influencer ma perception sensorielle d'un lieu ?",
             "date":"30/11/2024",

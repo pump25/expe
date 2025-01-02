@@ -1,9 +1,9 @@
 {
     "projets":[
         {
-            "imgprojet":"img/cosmo-diffniv.webp",
+            "imgprojet":"img/cosmo-diffniv.png",
             "h1projet":"Différents niveaux de lecture",
-            "paraprojet":"Au travers de ce cosmogramme il s'agit d'une exploration autour de la confrontation de différentes informations sur une même position, comment puis je représenté différents aspect d'une même position. On retrouve ainsi : une coupe du lieu, la présence de nappes phréatiques, le mouvement satellitaire, la cartographie architecturale du lieu",
+            "paraprojet":"Une exploration qui mène à la création de cosmogrammes, où les échelles (souterraine, terrestre et aérienne) d’un même territoire se confrontent. Le concept du vous êtes ici disparaît, puisque l’accent n'est plus mis sur l’individu, mais sur le territoire lui-même. Dans cette configuration, nous nous situons par une représentation photographique. La lecture de ce cosmogramme se fait comme un zoom : la couche la plus élevée, vue du ciel, apparaît plus proche, tandis que la couche souterraine semble plus petite. Cette représentation nous permet de mettre en lumière ce qui est habituellement invisible, et d'explorer la relation entre différentes couches, à partir d'une même position.",
             "entree1":"Cosmogramme",
             "entree2":"Comment montrer différents niveaux d'informations d'un territoire ?",
             "date":"30/11/2024",
@@ -12,8 +12,8 @@
         {
             "vidprojet":"img/MulticoucheAR.webm",
             "h1projet":"Changer de point de vue pour montrer différents niveaux de lecture",
-            "paraprojet":"Explorer comment l'on peut représenter différents niveaux de lecture d'un territoire en réalité augmentée. Une exploration qui invite l'usager à observer sous différents angles un m^me environnement et qui donne une localité à chaque niveau de lectures d'un territoire.",
-            "entree1":"AR",
+            "paraprojet":"La question des niveaux de lecture peut également être abordée à travers différents points de vue. L’information ne se limite alors plus à un même plan, mais devient une expérience immersive, ex-situ, dans un espace et un territoire éclaté. Cette expérience en réalité virtuelle, spatialise les différents niveaux d’un territoire et les associe à des positions spécifiques dans l’espace. Ce qui permet de donner une matérialisation à ses données géographiques par leur position, et de mettre en valeur un point spongieux par les connexions qui se créent.",
+            "entree1":"exsitu",
             "entree2":"Comment montrer différents niveaux d'informations d'un territoire ?",
             "date":"30/11/2024",
             "nid":"diffnivar"
@@ -22,7 +22,7 @@
             "vidprojet":"img/positionson.webm",
             "h1projet":"Position sensorielle",
             "paraprojet":"Explorer comment ma position peut influencer ma perception sensorielle d'un lieu. En fonction de où je me situe les sons autour de moi vont changer et me plonger dans une autre vision du territoire sur lequel je me situe.",
-            "entree1":"AR",
+            "entree1":"exsitu",
             "entree2":"Comment ma position peut influencer ma perception sensorielle d'un lieu ?",
             "date":"30/11/2024",
             "nid":"posison"

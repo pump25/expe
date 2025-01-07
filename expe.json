@@ -1,7 +1,7 @@
 {
     "projets":[
         {
-            "imgprojet":"img/cosmo-diff-niv.png",
+            "imgprojet":"imgexpe/cosmo-diff-niv.png",
             "h1projet":"Différents niveaux de lecture",
             "paraprojet":"Une exploration qui mène à la création de cosmogrammes, où les échelles (souterraine, terrestre et aérienne) d’un même territoire se confrontent. Le concept du vous êtes ici disparaît, puisque l’accent n'est plus mis sur l’individu, mais sur le territoire lui-même. Dans cette configuration, nous nous situons par une représentation photographique. La lecture de ce cosmogramme se fait comme un zoom : la couche la plus élevée, vue du ciel, apparaît plus proche, tandis que la couche souterraine semble plus petite. Cette représentation nous permet de mettre en lumière ce qui est habituellement invisible, et d'explorer la relation entre différentes couches, à partir d'une même position.",
             "entree1":"Cosmogramme",
@@ -10,7 +10,7 @@
             "nid":"diffniv" 
         },
         {
-            "vidprojet":"img/MulticoucheAR.webm",
+            "vidprojet":"imgexpe/MulticoucheAR.webm",
             "h1projet":"Changer de point de vue pour montrer différents niveaux de lecture",
             "paraprojet":"La question des niveaux de lecture peut également être abordée à travers différents points de vue. L’information ne se limite alors plus à un même plan, mais devient une expérience immersive, ex-situ, dans un espace et un territoire éclaté. Cette expérience en réalité virtuelle, spatialise les différents niveaux d’un territoire et les associe à des positions spécifiques dans l’espace. Ce qui permet de donner une matérialisation à ses données géographiques par leur position, et de mettre en valeur un point spongieux par les connexions qui se créent.",
             "entree1":"exsitu",
@@ -19,7 +19,7 @@
             "nid":"diffnivar"
         },
          {
-            "vidprojet":"img/positionson.webm",
+            "vidprojet":"imgexpe/positionson.webm",
             "h1projet":"Position sensorielle",
             "paraprojet":"Dans une pièce, sans indication visuelle, l’ambiance sonore varie en fonction de la position de la personne à l’intérieur. L’utilisateur est transporté dans différents lieux grâce à son ouïe. Cela permet d’explorer de nouvelles façons de percevoir un territoire, en se concentrant sur d’autres caractéristiques qui le qualifient",
             "entree1":"exsitu",
@@ -28,7 +28,7 @@
             "nid":"posison"
         },
         {
-            "imgprojet":"img/schema_vousetesici.webp",
+            "imgprojet":"imgexpe/schema_vousetesici.webp",
             "h1projet":"Vous êtes ici, mon rapport au territoire",
             "paraprojet":"Explorer comment ma position est en lien étroit avec mon territoire. Une représentation sensible du vous êtes ici, qui interroge sa place sur différentes représentation du territoire.",
             "entree1":"Cosmogramme",

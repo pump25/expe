@@ -1,7 +1,10 @@
 {
     "projets":[
         {
-            "imgprojet":"imgexpe/cosmo-diff-niv.png",
+            "imgprojet": [
+                "imgexpe/cosmo-diff-niv.png",
+                "imgexpe/schema_vousetesici.webp",
+            ],
             "imgprojet":"imgexpe/cosmo-diff-niv.png",
             "h1projet":"Différents niveaux de lecture",
             "paraprojet":"Une exploration qui mène à la création de cosmogrammes, où les échelles (souterraine, terrestre et aérienne) d’un même territoire se confrontent. Le concept du vous êtes ici disparaît, puisque l’accent n'est plus mis sur l’individu, mais sur le territoire lui-même. Dans cette configuration, nous nous situons par une représentation photographique. La lecture de ce cosmogramme se fait comme un zoom : la couche la plus élevée, vue du ciel, apparaît plus proche, tandis que la couche souterraine semble plus petite. Cette représentation nous permet de mettre en lumière ce qui est habituellement invisible, et d'explorer la relation entre différentes couches, à partir d'une même position.",
